@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVarranted tydings from Jreland. Written by Master Robert Pickering, secretary unto the Right Worshipfull, Sir Simon Harcourt, Sergeant-Major of all the horse troops there arrived. From Corke, January 16, 1461 [sic].</title>
+            <author>Pickering, Robert, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90673</idno>
+            <idno type="STC">Wing P2152</idno>
+            <idno type="STC">Thomason E132_37</idno>
+            <idno type="STC">ESTC R21073</idno>
+            <idno type="EEBO-CITATION">99869493</idno>
+            <idno type="PROQUEST">99869493</idno>
+            <idno type="VID">156380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156380)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVarranted tydings from Jreland. Written by Master Robert Pickering, secretary unto the Right Worshipfull, Sir Simon Harcourt, Sergeant-Major of all the horse troops there arrived. From Corke, January 16, 1461 [sic].</title>
+                  <author>Pickering, Robert, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathanaell Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156380:1"/>
+            <pb facs="tcp:156380:1" rendition="simple:additions"/>
+            <p>VVarranted Tydings FROM JRELAND.</p>
+            <p>WRITTEN By Maſter ROBERT PICKERING, Secretary unto the Right Worſhipfull, Sir SIMON HARCOVRT, Sergeant-Major of all the Horſe Troopes there arrived.</p>
+            <p>From <hi>Corke,</hi> Ianuary 16. 1461.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nathanaell Butter.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156380:2"/>
+            <pb n="1" facs="tcp:156380:2"/>
+            <head>VVarranted Tidings, From <hi>Corke,</hi> in <hi>Ireland,</hi> the 16. of <hi>Iaunary,</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Oncerning (theſe particulars) the taking of the Towne, and Caſtle of <hi>Eniſhannon</hi> from the Rebels, by Sir <hi>Simon Harcourt,</hi> and Sir <hi>Thomas Temple,</hi> with a notable Victory over the Rebell <hi>Mac-Cartie</hi> at <hi>E<g ref="char:EOLhyphen"/>niſhannon</hi> Foord: <hi>Mack-Con</hi> the Rebels attempt upon the Towne of <hi>Bandon</hi> Bridge, and their happy Defeate by Sir <hi>Richard Grinfield.</hi>
+            </p>
+            <p>Sunday, <hi>Ian.</hi> 16. Sir <hi>Simon Harcourt,</hi> and Sir <hi>Thomas Temple,</hi> hearing that the late riſen Rebell, <hi>Dominick Mack Carty</hi> was drawing toward the Towne and Caſtle of <hi>E<g ref="char:EOLhyphen"/>niſhannon:</hi> with intent to victuall and man it better, as we conceived: conſidering how neere that Caſtle ſtands unto <hi>Kingſale,</hi> lately recovered, and how bad an enemy
+<pb n="2" facs="tcp:156380:3"/>likely to prove, if wee ſhould ſuffer the Rebels, not on<g ref="char:EOLhyphen"/>ly to neaſtle there, but even to paſſe by our doore, and to relieve them in a Bravado, deſired of God diſpenſation for breach of the Sabbath, &amp; after ſome ſhort prayers, and recommending our ſelves unto God: with refreſhing our bodies with ſuch food, as the condicion of the time, and place, would permit: Wee advanced two hundred Horſe, and fifteene hundred Foot, and five ſmall field Peeces with this equipage; we came unto the foord of <hi>E<g ref="char:EOLhyphen"/>niſhannon,</hi> being very exceeding broad, but not very deep, hard chalky clay, being the ſiedge of the Foord: An arme of the Sea flowing up from <hi>Kingſale,</hi> three Iriſh miles: wee muſt needs paſſe this Foord unto <hi>Eniſhanon,</hi> other way there is none.</p>
+            <p>
+               <hi>Mounſieur Mack-Carty</hi> paſſed along the other ſide of the Foord upon the Strand, in paſſing good order, as ever ſaw Rebels, ſince I came over, his Horſe being at leaſt foure or five hundred compleatly armed: his Foot two thouſand, and about ſix or ſeaven hundred compleatly armed with Pike, halfe Pike, Musket, or Calliver, (which makes me ſuſpect ſomething, ſeeing that a Rebell but lately riſen, and of no great note, this being the very firſt exployt that ever hee tooke in hand, as we heare of, ſhould in ſo ſhort a time bee able to raiſe ſo many men, and in that manner to furniſh them) wee expected not, till hee ſhould bed us come over: but forthwith ſent over our Cavalerie to charge him, and a little to ſtay his haſte, and to perſwade him to take us along with him to <hi>Eni<g ref="char:EOLhyphen"/>ſhannon:</hi> if wee could not obtaine ſo much as to be there before him: Sir <hi>Simons</hi> two hundred Horſe were as good, and as ſerviceably fitted, as ever were horſe, that went out of <hi>England</hi> and the Cavallieers that ſate them, as experienced Fire-men: Yet their marching ſo farre in
+<pb n="3" facs="tcp:156380:3"/>the water; and the enemy ſtanding on the dry ſtrand, much broake their charge, and advantaged the Enemies, who received their charge boldly, and anſwered it ſtout<g ref="char:EOLhyphen"/>ly: at leaſt whether that they wanted powder, or (which I rather beleeve) their powder was damp, being carried in bags by their ſide, (as their manner is) whether it was one or the other, their piſtols would no longer fire, with <hi>Mack-Cartie</hi> perceiving, cauſed his Cavallerie to retire: and advanceth his Infanterie againſt our Cavallerie: and not the worſt in front you may be ſure.</p>
+            <p>Wee victualled and mannerd the Caſtle with ſuch proviſion and Ammunition as wee could well ſpare, untill wee ſhall heare farther from you; and on Mon<g ref="char:EOLhyphen"/>day were back againe at <hi>Kingſale.</hi>
+            </p>
+            <p>Tueſday the eighteene we heard newes that <hi>Bandon</hi> Bridge was ſuddenly ſurprized by the Rebell <hi>Mac Con;</hi> and moſt fortunately relieved by Sir <hi>Richard Grenvill:</hi> a very fine Engliſh Towne walled in, belonging unto the Earle of <hi>Corke:</hi> the manner thus: Sir <hi>Richard</hi> at his ar<g ref="char:EOLhyphen"/>rivall to <hi>Corke,</hi> it being a thick and foggy ayre, was ſomething ill diſpoſed: Captaine <hi>Thomas Finch,</hi> Cap<g ref="char:EOLhyphen"/>taine of the Fort, perſwaded him to take his Troope, and to ſcoure the Countrey, paſſing as farre as <hi>Bandon,</hi> there to lodge a night or two, being a moſt ſweet ayre, thereby not onely to recreate himſelfe, but alſo to revive the drooping hearts of his deare Country-men, with the pre<g ref="char:EOLhyphen"/>ſence of ſo worthy a Commander: Sir <hi>Richard</hi> conſen<g ref="char:EOLhyphen"/>ted, and the next morning being Munday, <hi>Jan.</hi> 11. with foureſcore Horſe, and only thirty Muskettiers, paſſed thither; when hee came upon an hill, within a mile of the Towne, hee heard their Drum beat, and ſaw their co<g ref="char:EOLhyphen"/>lours fly, the Towne ſtanding in a bottome; likewiſe a<g ref="char:EOLhyphen"/>bout
+<pb n="4" facs="tcp:156380:4"/>ſome hundred ſhot play, wondring that they played ſo faſt: within halfe a mile wee heard lamentations of women, and crying out of children, we liked not that: Sir <hi>Richard</hi> cauſed his Trumpets to ſound, his Horſe and Muskets to order, and thus they all crying courage coun<g ref="char:EOLhyphen"/>treymen, a <hi>Grinfield,</hi> a <hi>Grinfield:</hi> we came to the gates, which by reaſon of the great confuſion in the Towne, were not opened ſcarce within a quarter of an houre.</p>
+            <p>Being entred, they found the Enemy to have entred in the Low Towne thorough the water, betweene two buts of wall; ſome forty were entred, and ſcirmiſhing with the Townes men: the reſt to the number of ſix hundred, were paſſing the foord a maine; when they ſaw our trumpets and ſuch a number of freſh horſe in that equipage, and the ſhot plainely increaſed, they in the paſſage retired with all ſpeed they could make, into the wood and bog, ſome Two miles above the River, never ſtaying for their fellowes in the Towne, who were all ſlaine to the number of fourty five; nine <hi>Bandon</hi> men were either ſlaine or dangerouſly hurt: Thus was that pretty Towne happily relieved, but all other newes is not of this nature, I wiſh it were.</p>
+            <p>Townes of greater importance are taken, that way wee had ſuſtained ſome harme, had not Sir <hi>Si<g ref="char:EOLhyphen"/>mon</hi> ſo wiſely conſidered the Rebels advantage, (ha<g ref="char:EOLhyphen"/>ving not onely the ſtrand, but divers high and bro<g ref="char:EOLhyphen"/>ken ſandy bancks behind him ſhocked with his ſupplies) and cauſed his Infantery upon the falling back of his horſe to come up anckle deepe in water in one whole body and to powre in ſuch a volley of ſhot into the Rebels groſſe, that they dropped wonderfully, neither could their ſhot at that diſtance reach our men, as ap<g ref="char:EOLhyphen"/>peared
+<pb n="5" facs="tcp:156380:4"/>afterward, being moſt of them Calivers: Sir <hi>Simon</hi> perceiving how the game plaid, would not ſuf<g ref="char:EOLhyphen"/>fer his men to move any further, but to ply their ſhot at ſuch diſtance, which hee perceived ſufficiently anoyed their Enemies, and did them much harme; At the third volley, the Enemies Infantery gave over and retired to the banckes upon their horſe, how much they retired as neare as could be gueſſed, ours at diſtance advanced, till at length, the Enemy gave the freedome of the ſtrand: then after one volley more, our horſe now under the command of Sir <hi>Thomas Temple,</hi> having recovered the ſtrand alſo, as now our foote had already the bancks. At laſt, having found where they got up two horſe a breaſt, (the foote in the meane time awing the Ene<g ref="char:EOLhyphen"/>my, fell upon them in ſuch a fierce manner), that no re<g ref="char:EOLhyphen"/>ſiſtance in a manner was made; there was dead upon the ground eight hundred horſe and foote, with <hi>Mack Cartie</hi> and his two Baſtard brethren, whoſe heads were ſtrait way ſmitten off, and carried upon poles unto <hi>Eniſhan<g ref="char:EOLhyphen"/>non.</hi>
+            </p>
+            <p>Whither being come, the Towne made, nor could make no reſiſtance; The Caſtle would not anſwer; whereupon Sir <hi>Simon</hi> with his five pieces battered the gate, and wicket, entered by force, found thirty deſperate Villaines in it, hanged ſome of them over the Caſtle wall, ſome in other parts of the Towne.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
